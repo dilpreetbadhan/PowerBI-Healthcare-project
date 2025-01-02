@@ -42,7 +42,7 @@ The project uses **Medicare Inpatient and Outpatient Datasets** sourced from [CM
 4. Geographic trends reveal higher discharges in urban states compared to rural ones.
 
 ## **How to Open the Project**
-1. Download the `.pbix` file from this repository.
+1. Download the `Healthcare_Analysis.pbix` file from this repository.
 2. Open the file in **Power BI Desktop**.
 3. Interact with the dashboard using slicers to explore specific insights.
 
