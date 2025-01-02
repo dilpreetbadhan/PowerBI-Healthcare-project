@@ -47,7 +47,8 @@ The project uses **Medicare Inpatient and Outpatient Datasets** sourced from [CM
 3. Interact with the dashboard using slicers to explore specific insights.
 
 ## **Screenshot**
-![WhatsApp Image 2025-01-02 at 12 31 15](https://github.com/user-attachments/assets/a0bfc67e-2416-463d-958f-843a509e6f4f)
+![WhatsApp Image 2025-01-02 at 15 56 44](https://github.com/user-attachments/assets/bea415bc-f7d0-4f1b-9380-662c3eb65c6f)
+
 
 
 
